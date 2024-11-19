@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421602719985",
+    "project_id": "optihive-1f994",
+    "storage_bucket": "optihive-1f994.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421602719985:android:9a477ec7cfc00a3e9cd150",
+        "android_client_info": {
+          "package_name": "optihive.SBOMS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRvzyN2QiIFGz-ZXhU4sqsrv__escIwrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

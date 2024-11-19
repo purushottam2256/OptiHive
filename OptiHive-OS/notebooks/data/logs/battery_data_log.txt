@@ -1,0 +1,10 @@
+2024-11-19 19:21:22.158647 | Battery: 69% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:26:22.378242 | Battery: 72% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:31:22.648507 | Battery: 76% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:36:22.899150 | Battery: 79% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:41:23.132380 | Battery: 84% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:46:23.354462 | Battery: 88% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:51:23.421020 | Battery: 91% | Next Check in: 60.33979797363281 minutes
+2024-11-19 19:56:23.469484 | Battery: 94% | Next Check in: 60.33979797363281 minutes
+2024-11-19 20:01:23.524226 | Battery: 96% | Next Check in: 60.33979797363281 minutes
+2024-11-20 00:06:02.839832 | Battery: 55% | Next Check in: 60.52014923095703 minutes
